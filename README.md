@@ -6,4 +6,4 @@ A program in Python that connects to the API of Last.fm, a site that tracks user
    
 ## Output file running on Flourish Studio
 
-![ Output in action](output_race.gif) / ! [](output_race.gif)
+![Output in action](https://github.com/Stuurrgis/Last.fm-Data-Retriever-and-Preprocessor/blob/main/Output_race.gif)
