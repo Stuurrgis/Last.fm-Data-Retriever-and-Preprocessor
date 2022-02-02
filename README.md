@@ -4,6 +4,6 @@ A program in Python that connects to the API of Last.fm, a site that tracks user
 ## How to use
    ##### python3 lastfmRetrieveandPreprocess.py
    
-## Output file running on Flourish Studio
+## Example utput file running on Flourish Studio
 
 ![Output in action](https://github.com/Stuurrgis/Last.fm-Data-Retriever-and-Preprocessor/blob/main/Output_race.gif)
